@@ -1,0 +1,42 @@
+body
+{
+	text-align: center;
+    background-image: url("images.jpg");
+    background-position: center;
+    background-size: cover; }
+
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#send_Q{
+	width :50%;
+}
+#player1information{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #ff488e;
+	padding: 10px;
+	float: none;
+	text-align: center;
+}
+#player2information{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #ff488e;
+	padding: 10px;
+	float: none;
+	text-align: center;
+}
+#player1name{
+	margin-left: -900px;
+}
+#player2name{
+	margin-left: -900px;
+}
